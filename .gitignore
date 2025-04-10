@@ -1,5 +1,23 @@
-.env
+# Environnements virtuels
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebooks
 .ipynb_checkpoints/
-Clé API pour la formation LLM Ingénieur.docx
+
+# IDE (PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Fichiers sensibles ou persos
+.env
 /Semaine01/
- 
+Clé API pour la formation LLM Ingénieur.docx
+
+# Fichiers temporaires
+*.log
